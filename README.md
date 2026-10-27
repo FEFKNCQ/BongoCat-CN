@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/8eec438c5c97
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/BongoCat/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/BongoCat-CN/releases) 下载。
 
 
 
