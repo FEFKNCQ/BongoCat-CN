@@ -1,3 +1,12 @@
+> **下载说明**
+> 优先推荐从百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/s/16i74WvHTd0x5Y5IJvPpJ_A?pwd=f6hq
+>
+> **夸克网盘**：https://pan.quark.cn/s/8eec438c5c97
+>
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/BongoCat/releases) 下载。
+
+
 
 <div align="center">
   <a href="https://bongocat.pet" target="_blank">
